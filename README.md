@@ -22,9 +22,11 @@ Python: Lenguaje de programación principal.
 # Instrucciones de Uso
 # 1.Clonar el repositorio:
 Bash
+
 git clone (https://github.com/beron11/parcial-1-sebastian-beron)
 # 2.Crear un entorno virtual:
 Bash
+
 python -m venv venv
 # 3.Activar el entorno virtual:
 Windows: venv\Scripts\activate.
@@ -32,7 +34,9 @@ Windows: venv\Scripts\activate.
 Linux/macOS: source venv/bin/activate.
 # 4.Instalar las dependencias:
 Bash
+
 pip install -r requirements.txt
 # 5.Ejecutar el programa:
 Bash
+
 python main.py

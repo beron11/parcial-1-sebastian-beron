@@ -27,8 +27,8 @@ git clone (https://github.com/beron11/parcial-1-sebastian-beron)
 Bash
 python -m venv venv
 # 3.Activar el entorno virtual:
-Windows: venv\Scripts\activate
-Linux/macOS: source venv/bin/activate
+Windows: venv\Scripts\activate.
+Linux/macOS: source venv/bin/activate.
 # 4.Instalar las dependencias:
 Bash
 pip install -r requirements.txt

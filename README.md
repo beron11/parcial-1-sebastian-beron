@@ -2,7 +2,8 @@
 cotización de ventanas pqr
 # Descripción
 Este proyecto, desarrollado en Python, tiene como objetivo crear un sistema de gestión para una empresa dedicada a la fabricación de ventanas en aluminio. El sistema permite gestionar información sobre clientes, cotizaciones, productos y la empresa en general.
-
+# Autor
+juan sebastian beron
 # Estructura del Proyecto
 cliente.py: Contiene la clase Cliente que almacena la información de los clientes (nombre, dirección, teléfono, etc.).
 cotizacion_item.py: Define la clase CotizacionItem que representa un ítem individual dentro de una cotización (tipo de ventana, cantidad, precio unitario).

@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Este proyecto utiliza solo la biblioteca estándar de Python.
+# No se requieren paquetes externos.
+
+# Especificamos la versión de Python utilizada
+python>=3.6
